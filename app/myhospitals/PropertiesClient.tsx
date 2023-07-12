@@ -75,7 +75,7 @@ const TripsClient: React.FC<PropertiesClientProps> = ({
       </div>
       
     </Container>
-    <Footer/>
+   
     </div>
   );
 };
